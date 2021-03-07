@@ -1,0 +1,34 @@
+*
+{
+    background-color: lightblue;
+}
+.pog
+{
+    float: left;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.pog img
+{
+    width: 450px;
+    height: 450px;
+}
+
+.gi
+{
+    float: right;
+    margin-top: 70px;
+    margin-right: 90px;
+}
+
+.about
+{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.work
+{
+    margin-top: 50px;
+    margin-left: 50px;
+}
